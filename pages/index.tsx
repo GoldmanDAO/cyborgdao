@@ -201,7 +201,7 @@ export default function Home() {
                             <Image src={nftImage} width='600' height='600' layout='responsive' className={styles.nftimage} alt="NFT image" />
                         </div>
                         <div className={styles.mintInfo}>
-                            Minted: {totalMinted}/{currentSupply} | 1 ETH
+                            Minted: {totalMinted}/{currentSupply} | 969 MAX | 1 ETH
                         </div>
                         {mintButton()}
                     </div>
